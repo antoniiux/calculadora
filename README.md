@@ -1,5 +1,4 @@
 Calculadora simples.
 
-Nela foi adicionado funções como adição, subtração, soma e multiplicação.
+Nela foi adicionado funções como adição, subtração, soma, multiplicação e calculo de porcentagem.
 
-Contudo foi adicionado o caulculo de porcentagem, trabalho nesse quisito.....
